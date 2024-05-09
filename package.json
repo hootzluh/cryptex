@@ -1,0 +1,25 @@
+{
+  "name": "cryptex",
+  "version": "1.0.0",
+  "description": "a file and folder encryption desktop application for Windows and Mac OS.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hootzluh/cryptex.git"
+  },
+  "keywords": [
+    "encryption"
+  ],
+  "author": "Hutzler Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hootzluh/cryptex/issues"
+  },
+  "homepage": "https://github.com/hootzluh/cryptex#readme",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
